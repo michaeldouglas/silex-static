@@ -1,4 +1,4 @@
-#Dockerfile web
+#Dockerfile api
 FROM node:6.5.0
 
 ENV HOME=/home/web
