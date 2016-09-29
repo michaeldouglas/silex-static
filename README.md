@@ -5,6 +5,7 @@ Essa aplicação foi criada para ser utilizada no curso de Silex do PHP Conferen
 Os arquivos do Silex encontram-se no repositório: [https://github.com/michaeldouglas/Silex-Docker](https://github.com/michaeldouglas/Silex-Docker)
 
 [![Packagist](https://img.shields.io/packagist/l/doctrine/orm.svg?maxAge=2592000)](https://github.com/michaeldouglas/Silex-Docker)
+[![npm](https://img.shields.io/npm/v/npm.svg?maxAge=2592000)](https://github.com/michaeldouglas/silex-static)
 
 ## Instalação
 
