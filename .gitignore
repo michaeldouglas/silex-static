@@ -3,3 +3,4 @@ node_modules
 build/
 web/public/vendor
 web/assets/vendor
+web/assets/css
