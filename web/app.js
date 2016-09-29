@@ -1,8 +1,8 @@
 "use strict";
-let express = require('express');
-let app = express();
+let express = require('express'),
+    app = express();
 
-app.use('/static', express.static('public'));
+app.use('/static', express.static('assets'));
 
 app.get('/', (req, res) => {
     res.send('hello there!');
