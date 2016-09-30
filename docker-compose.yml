@@ -11,3 +11,4 @@ services:
             - "4000:4000"
         volumes:
             - ./web:/home/web
+            - /home/web/node_modules

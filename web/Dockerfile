@@ -4,5 +4,9 @@ FROM node:6.5.0
 ENV HOME=/home/web
 
 WORKDIR $HOME
+
 COPY . $HOME
-RUN npm i
+
+RUN npm cache clean && npm install --silent --progress=false
+
+CMD ["npm", "start"]
