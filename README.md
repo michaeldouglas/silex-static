@@ -35,6 +35,12 @@ curl localhost:3000
 
 ![](http://gifsec.com/wp-content/uploads/GIF/2015/06/Dance-With-Me-Cat.gif?gs=a)
 
+## Debug Vue
+
+Para debugar a sua aplicação Vuejs, você pode utilizar essa extensão para Google Chrome:
+
+  [https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
+
 ## Remover Containers
 
 Para remover todos os containers você pode executar em seu terminal o comando:
