@@ -37,9 +37,15 @@ curl localhost:3000
 
 ## Debug Vue
 
-Para debugar a sua aplicação Vuejs, você pode utilizar essa extensão para Google Chrome:
+Para debugar a sua aplicação VueJs, você pode utilizar essa extensão para Google Chrome:
 
   [https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
+
+## Plugin PHPStorm Vue
+
+Plugin do PHPStorm para VueJs:
+
+  [https://plugins.jetbrains.com/plugin/8057?pr=phpStorm](https://plugins.jetbrains.com/plugin/8057?pr=phpStorm)
 
 ## Remover Containers
 
