@@ -22,6 +22,12 @@ var hello = new Vue({
         removeElement: function(e, index) {
             e.preventDefault();
             this.elements.splice(index, 1);
+        },
+        myClick:function() {
+            alert('Click');
+        },
+        myKeyUp: function() {
+            alert('MyKeyUp');
         }
     }
 });
